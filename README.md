@@ -7,7 +7,6 @@ This was written because I need output from Lab that can be included with a comm
 [![Semantic Versioning](https://img.shields.io/github/release/davidwaterston/lab-markdown-reporter.svg)](http://semver.org/)
 [![MIT Licence](http://img.shields.io/badge/license-MIT-blue.svg)](https://github.com/davidwaterston/lab-markdown-reporter/blob/master/LICENSE)
 [![Releases signed with Gnu Privacy Guard](https://img.shields.io/badge/gpg-signed-green.svg)](#verifying-releases)
-[![Stories in Progress](https://badge.waffle.io/davidwaterston/lab-markdown-reporter.svg?label=in%20progress&title=in progress)](http://waffle.io/davidwaterston/lab-markdown-reporter)
 [![Join the Chat](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/davidwaterston/lab-markdown-reporter)
 
   
