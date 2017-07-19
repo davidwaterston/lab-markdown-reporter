@@ -24,6 +24,6 @@
   },
   "homepage": "https://github.com/davidwaterston/lab-markdown-reporter#readme",
   "peerDependencies": {
-    "lab": "^10.0.0"
+    "lab": ">= 7.3.0"
   }
 }
