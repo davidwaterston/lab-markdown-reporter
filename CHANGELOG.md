@@ -2,6 +2,10 @@
 All notable changes to this project will be documented in this file.
 This project adheres to [Semantic Versioning](http://semver.org/).
 
+## [Unreleased] - 2017-07019
+### Changed
+- Update peerDependencies to accept anything greater than 7.3.0
+
 
 ## [1.0.2] - 2015-12-12
 
